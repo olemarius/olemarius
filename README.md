@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👈🏼 About me
+I'm the co-founder and senior developer at Bloc. Beside coding, I like coffee, fishing, hiking, gym and good food.
 
-<!--
-**olemarius/olemarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📍 Bloc
+Bloc is a small tech company in Oslo, Norway that developed a platform for making websites for non tech-savy people. 
+More at www.bloc.net
 
-Here are some ideas to get you started:
+### 🧠 Skills
+- vue, vuex, vue-router, 
+- javascript
+- npm, webpack
+- C# (basic)
+- jquery, jquery ui
+- ionic/angular
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
