@@ -6,10 +6,10 @@ Bloc is a small tech company in Oslo, Norway that developed a platform for makin
 More at www.bloc.net
 
 ### 🧠 Skills
-- vue, vuex, vue-router, 
+- Vue 2/3, vuex, vue-router
+- CSS, Less, Tailwind CSS, Windi CSS, Bootstrap
 - javascript
-- npm, webpack
-- C# (basic)
-- jquery, jquery ui
-- ionic/angular
-
+- typescript
+- vite, webpack, rollup
+- C#, .NET Core, Swagger
+- Mobile development, Ionic/Angular
