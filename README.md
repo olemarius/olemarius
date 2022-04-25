@@ -13,3 +13,6 @@ More at www.bloc.net
 - vite, webpack, rollup
 - C#, .NET Core, Swagger
 - Mobile development, Ionic/Angular
+
+### Open Source Contributions
+- https://github.com/dequelabs/axe-core/pull/3375
