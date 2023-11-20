@@ -25,7 +25,6 @@ More at www.bloc.net
 - i18n, Localazy
 
 ### Open Source Contributions
-- https://github.com/dequelabs/axe-core/pull/3375
-- https://github.com/radix-vue/shadcn-vue/pull/117
-- https://github.com/radix-vue/shadcn-vue/pull/179
-- https://github.com/wheatjs/vite-plugin-generate-exports/pull/2
+- axe [#3375](https://github.com/dequelabs/axe-core/pull/3375)
+- shadcn-vue [#117](https://github.com/radix-vue/shadcn-vue/pull/117), [#179](https://github.com/radix-vue/shadcn-vue/pull/179), [#182](https://github.com/radix-vue/shadcn-vue/pull/182)
+- vite-plugin-generate-exports [#2](https://github.com/wheatjs/vite-plugin-generate-exports/pull/2)https://github.com/wheatjs/vite-plugin-generate-exports/pull/2
