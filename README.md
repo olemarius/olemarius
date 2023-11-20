@@ -28,3 +28,4 @@ More at www.bloc.net
 - https://github.com/dequelabs/axe-core/pull/3375
 - https://github.com/radix-vue/shadcn-vue/pull/117
 - https://github.com/radix-vue/shadcn-vue/pull/179
+- https://github.com/wheatjs/vite-plugin-generate-exports/pull/2
